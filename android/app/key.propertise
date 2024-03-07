@@ -1,0 +1,4 @@
+storePassword=siddik2002
+keyPassword=siddik2002
+keyAlias=debug
+storeFile=debug.keystore

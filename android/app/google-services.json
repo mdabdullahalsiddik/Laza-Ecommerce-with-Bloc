@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "16367844792",
+    "project_id": "laza-7f225",
+    "storage_bucket": "laza-7f225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16367844792:android:7f707512f701035476a34d",
+        "android_client_info": {
+          "package_name": "com.example.laza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16367844792-gtt80ghecnbeuur0ehs7optp12ui3s7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laza",
+            "certificate_hash": "61d52043237b9804ee62a808f61b0c219bdf82c1"
+          }
+        },
+        {
+          "client_id": "16367844792-ahk6vahrm5t454kg1lkqd3iijs0hd66i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeVMjcDIsM7iCNeXVSIkpl8WDYEgs2mAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16367844792-ahk6vahrm5t454kg1lkqd3iijs0hd66i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16367844792-8kcje6a16prvhuscruvqhd6j9uull15t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.laza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
